@@ -1,3 +1,7 @@
+
+
+https://img.shields.io/static/v1?label=Knotters&message=Project&color=1657ce&link=https://knotters.org&style=for-the-badge
+
 <h1 align="center">TG Direct Link Generator</h3>
 <p align="center">
   <a href="https://github.com/TechShreyash/TG-Direct-Link-Generator">
