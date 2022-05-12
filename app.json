@@ -36,6 +36,12 @@
         },        
         "OWNER_ID": {
             "description": "Your Telegram User ID"
+        },
+        "MULTI_TOKEN1": {
+            "description": "Get this value from @botfather"
+        },
+        "MULTI_TOKEN2": {
+            "description": "Get this value from @botfather"
         }
     },
     "buildpacks": [{
