@@ -1,15 +1,11 @@
-
-
-https://img.shields.io/static/v1?label=Knotters&message=Project&color=1657ce&link=https://knotters.org&style=for-the-badge
-
 <h1 align="center">TG Direct Link Generator</h3>
 <p align="center">
-  <a href="https://github.com/TechShreyash/TG-Direct-Link-Generator">
-    <img src="https://socialify.git.ci/TechShreyash/TG-Direct-Link-Generator/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark" alt="TG-Direct-Link-Generator" width="640" height="320" />
+  <a href="https://github.com/selfie-bd/TG-Direct-Link-Generator">
+    <img src="https://socialify.git.ci/selfie-bd/TG-Direct-Link-Generator/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark" alt="TG-Direct-Link-Generator" width="640" height="320" />
   </a>
   <p align="center">
     A Telegram Bot To Get Direct Links Of Telegram Files.<br/>
-    <a href="http://telegram.me/TGDirectLinkGenBot"><strong>Demo Bot</strong></a>
+    <a href="http://telegram.me/groupdcbots"><strong>Demo Bot</strong></a>
     <br />    
   </p>
 </p>
