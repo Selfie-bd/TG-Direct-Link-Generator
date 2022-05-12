@@ -88,7 +88,7 @@ async def cb_data(bot, update: CallbackQuery):
                     text=f"**#ᴇʀʀᴏʀ_ᴛʀᴀᴄᴇʙᴀᴄᴋ:** `{e}`\n#Delete_Link", disable_web_page_preview=True, 
                 )
                 await update.message.reply_text(
-                    text=f"**#ᴇʀʀᴏʀ_ᴛʀᴀᴄᴇʙᴀᴄᴋ:** `message-id={error_id.message_id}`\nYou can get Help from [TechZ Bots Support](https://t.me/TechZBots_Support)", disable_web_page_preview=True,
+                    text=f"**#ᴇʀʀᴏʀ_ᴛʀᴀᴄᴇʙᴀᴄᴋ:** `message-id={error_id.message_id}`\nYou can get Help from [TechZ Bots Support](https://t.me/groupdc)", disable_web_page_preview=True,
                 )
         else:
             await update.message.delete()
