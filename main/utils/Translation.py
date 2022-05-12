@@ -44,30 +44,30 @@ class Language(object):
 class BUTTON(object):
     START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Help', callback_data='help'),
-        InlineKeyboardButton('About', callback_data='about')
+        InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
+        InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
         ],        
-        [InlineKeyboardButton("Updates Channel", url='https://t.me/groupdcbots'),
-        InlineKeyboardButton("Repo", url='https://github.com/selfie-bd/TG-Direct-Link-Generator')]
+        [InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇꜱ", url='https://t.me/groupdcbots'),
+        InlineKeyboardButton("ʀᴇᴘᴏ", url='https://github.com/selfie-bd/TG-Direct-Link-Generator')]
         ]
     )
     HELP_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Home', callback_data='home'),
-        InlineKeyboardButton('About', callback_data='about')
+        InlineKeyboardButton('ʜᴏᴍᴇ', callback_data='home'),
+        InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
         ],
         [
-        InlineKeyboardButton('Close', callback_data='close'),
+        InlineKeyboardButton('ᴄʟᴏꜱᴇ', callback_data='close'),
         ],        
         ]
     )
     ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Home', callback_data='home'),
-        InlineKeyboardButton('Help', callback_data='help')
+        InlineKeyboardButton('ʜᴏᴍᴇ', callback_data='home'),
+        InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help')
         ],
         [
-        InlineKeyboardButton('Close', callback_data='close'),
+        InlineKeyboardButton('ᴄʟᴏꜱᴇ', callback_data='close'),
         ]        
         ]
     )
