@@ -40,7 +40,7 @@ class Var(object):
             "s" if HAS_SSL else "", FQDN, "" if NO_PORT else ":" + str(PORT)
         )
 
-    UPDATES_CHANNEL = "TechZBots"
+    UPDATES_CHANNEL = "groupdcbots"
     OWNER_ID = int(environ.get('OWNER_ID', '777000'))
 
     BANNED_CHANNELS = list(set(int(x) for x in str(environ.get("BANNED_CHANNELS", "-1001296894100")).split()))
