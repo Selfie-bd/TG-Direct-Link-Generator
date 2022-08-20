@@ -8,6 +8,7 @@ load_dotenv()
 
 class Var(object):
     MULTI_CLIENT = False
+    API = str(getenv('API'))
     API_ID = int(environ.get("API_ID"))
     API_HASH = str(environ.get("API_HASH"))
     BOT_TOKEN = str(environ.get("BOT_TOKEN"))
