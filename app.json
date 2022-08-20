@@ -26,6 +26,9 @@
         "BIN_CHANNEL": {
             "description": "The BIN Channel ID. Read the readme for more info about this var"
         },
+        "API": {
+          "description": "Get this value from https://linksearn.site/member/tools/api"
+        },
         "WORKERS": {
             "description": "Number of workers that is to be assigned. Read the readme for more info about this var",
             "required": false
